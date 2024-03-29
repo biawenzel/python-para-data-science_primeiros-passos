@@ -52,11 +52,11 @@
 
 6) Escreva um programa que gere a tabuada de um número inteiro de 1 a 10, de acordo com a escolha da pessoa usuária. Como exemplo, para o número 2, a tabuada deve ser mostrada no seguinte formato:
 
-_Tabuada do 2:
-2 x 1 = 2
-2 x 2 = 4
-[...]
-2 x 10 = 20_
+Tabuada do 2:\
+2 x 1 = 2\
+2 x 2 = 4\
+[...]\
+2 x 10 = 20
 
 7) Os números primos possuem várias aplicações dentro da Ciência de Dados em criptografia e segurança, por exemplo. Um número primo é aquele que é divisível apenas por um e por ele mesmo. Assim, faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
 
